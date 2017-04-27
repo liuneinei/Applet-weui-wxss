@@ -1,0 +1,40 @@
+
+
+<view class="container">
+    <view class="page tabbar js_show">
+        <view class="page__bd">
+            <view class="weui-tab">
+                <view class="weui-tab__panel"></view>
+                 <view class="weui-tabbar">
+                    <view class="weui-tabbar__item">
+                        <view class="weui-tabbar-pic">
+                            <view class="weui-tabbar-icon">
+                                <image src="../images/icon_tabbar.png" class="weui-tabbar__icon"></image>
+                            </view>
+                            <view class="weui-badge weui-badge-tip">6</view>
+                        </view>
+                        <view class="weui-tabbar__label">微信</view>
+                    </view>
+                    <view class="weui-tabbar__item weui-bar__item_on">
+                        <view class="weui-tabbar-pic">
+                            <view class="weui-tabbar-icon">
+                                <image src="../images/icon_tabbar.png" class="weui-tabbar__icon"></image>
+                            </view>
+                        </view>
+                        <view class="weui-tabbar__label">通讯录</view>
+                    </view>
+                    <view class="weui-tabbar__item">
+                        <view class="weui-tabbar-pic">
+                            <view class="weui-tabbar-icon">
+                                <image src="../images/icon_tabbar.png" class="weui-tabbar__icon"></image>
+                            </view>
+                            <view class="weui-badge weui-badge_dot weui-badge_dot_tip"></view>
+                        </view>
+                        <view class="weui-tabbar__label">发现</view>
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
+   
